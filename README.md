@@ -25,4 +25,18 @@ Batteries are classified into three categories based on their efficiency:
 - Install XAMPP to run the application locally.
 - PHP 7.4+ and a modern web browser.
 
+### Installation
+1. **Download the `index.php` file**:  
+   Download the `index.php` file from the repository:
+   [Download index.php](https://github.com/devyasserbm/Battery-efficiency-classifier/blob/main/index.php)
 
+2. **Move the `index.php` file**:
+   Copy the `index.php` file into the `htdocs` directory, which is located in your XAMPP installation folder.
+
+   On Windows, it is usually:
+   ```bash
+   C:/xampp/htdocs/
+
+   
+Run the application: Open your web browser and go to:
+http://localhost/index.php
