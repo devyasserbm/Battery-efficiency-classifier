@@ -25,7 +25,4 @@ Batteries are classified into three categories based on their efficiency:
 - Install XAMPP to run the application locally.
 - PHP 7.4+ and a modern web browser.
 
-### Installation
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/devyasserbm/Battery-efficiency-classifier
+
